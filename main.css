@@ -16,10 +16,10 @@ body {
     justify-content: center;
     position: fixed;
     bottom: 0;
-    right: -400px;
+    right: 0;
     transition: 0.5s;
 }
 .arrow:hover .video {
-    right: 0px;
+    right: -400px;
     transition: 0.5s;
 }
